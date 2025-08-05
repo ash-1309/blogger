@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Feed = () => {
   return (
@@ -8,4 +8,4 @@ const Feed = () => {
   )
 }
 
-export default Feed
+export default Feed;
